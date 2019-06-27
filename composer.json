@@ -1,0 +1,12 @@
+{
+    "name": "skywest/ss-footsies",
+    "type": "silverstripe-vendormodule",
+    "authors": [{
+        "name": "Hilkiah Makemo",
+        "email": "hilkiah.makemo@skywest.com"
+    }],
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
